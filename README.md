@@ -1,2 +1,3 @@
 # text_game_of_life
 Text-based Game of Life written long ago when I was learning java...
+To run easily, use eclipse or netbeans.
