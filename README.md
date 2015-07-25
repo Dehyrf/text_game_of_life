@@ -1,3 +1,3 @@
 # text_game_of_life
 Text-based Game of Life written long ago when I was learning java...
-To run easily, use eclipse or netbeans.
+To run easily, use eclipse or netbeans. If worst comes to worst, copy the code into a file you previously created in the dev environment and replace the old code. Fix errors and run!
